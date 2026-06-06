@@ -1,68 +1,38 @@
 # 🚀 Aryan Saini Portfolio
 
-## 🏠 Home Page
+## 🏠 Portfolio Preview
+
+### Home Page
 
 ![Home Page](assets/portfolio-home.png)
 
----
+### Portfolio Overview
 
-## 💻 Projects Section
-
-![Projects Section](assets/portfolio-projects.png)
-
----
-### AI/ML Engineer | Python Developer | Frontend Developer
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-blueviolet?style=for-the-badge)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
-[![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge)](#)
-[![AI](https://img.shields.io/badge/Artificial%20Intelligence-00C8FF?style=for-the-badge)](#)
-[![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
-
-</div>
+![Portfolio Overview](assets/portfolio-projects.png)
 
 ---
 
-## 🌟 About
+## 👨‍💻 About Me
 
-I am a B.Tech CSE (AI & ML) student at the University of Engineering & Management, Jaipur.
+Hi, I'm **Aryan Saini**, a passionate **AI/ML Engineer, Python Developer, and Frontend Developer** currently pursuing **B.Tech in Computer Science Engineering (Artificial Intelligence & Machine Learning)** at the **University of Engineering & Management, Jaipur**.
 
-I am passionate about:
-
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💻 Python Development
-- 🌐 Frontend Development
-- 🔬 Research & Innovation
-- ⚡ Problem Solving
+I enjoy building intelligent systems, solving real-world problems, and developing innovative software solutions.
 
 ---
 
-## ✨ Portfolio Features
+## 🌟 Features
 
-✅ Modern Futuristic UI
-
-✅ Fully Responsive Design
-
-✅ Animated Hero Section
-
-✅ Interactive 3D Elements
-
-✅ AI/ML Focused Portfolio
-
-✅ Project Showcase
-
-✅ Education Timeline
-
-✅ Research Section
-
-✅ Skills Section
-
-✅ Contact Form with EmailJS
-
-✅ Resume Download
+* ✨ Modern Futuristic UI Design
+* 📱 Fully Responsive Layout
+* 🤖 Interactive 3D Elements
+* 🎬 Animated Hero Section
+* 🧠 AI/ML Focused Portfolio
+* 💼 Project Showcase
+* 🎓 Education Timeline
+* 📄 Research Publication Section
+* ⚡ Skills Visualization
+* 📧 Contact Form with EmailJS
+* 📄 Resume Download Functionality
 
 ---
 
@@ -70,21 +40,21 @@ I am passionate about:
 
 ### Frontend
 
-- HTML5
-- CSS3
-- JavaScript
+* HTML5
+* CSS3
+* JavaScript
 
-### Libraries
+### Libraries & Services
 
-- Typed.js
-- EmailJS
+* Typed.js
+* EmailJS
+* Spline 3D
 
-### Design
+### Development Tools
 
-- Custom Animations
-- Glassmorphism UI
-- Responsive Layout
-- Interactive Effects
+* Git
+* GitHub
+* VS Code
 
 ---
 
@@ -92,108 +62,93 @@ I am passionate about:
 
 ### Bachelor of Technology (CSE - AI & ML)
 
-📍 University of Engineering & Management, Jaipur
+**University of Engineering & Management, Jaipur**
 
-2023 - 2027
+📅 2023 – 2027
 
-Current CGPA: 8.4
+📊 Current CGPA: **8.4**
 
 ---
 
 ### Senior Secondary Education
 
-📍 Shri Kalyan Shiksha Niketan Sr. Sec. School, Jaipur
+**Shri Kalyan Shiksha Niketan Sr. Sec. School**
 
-Class 10: 86%
-
-Class 12: 69%
+* Class 10: 86%
+* Class 12: 69%
 
 ---
 
-## 💻 Projects
+## 💼 Experience
+
+### Android Developer Virtual Internship
+
+**Google for Developers × EduSkills**
+
+### AI/ML Virtual Internship
+
+**AWS Academy × EduSkills**
+
+### AI/ML Virtual Internship
+
+**Google for Developers × EduSkills**
+
+### Content Writing Internship
+
+**InAmigos Foundation**
+
+---
+
+## 🚀 Projects
 
 ### Blockchain Consensus Algorithm Using Game Theory
 
-Technologies:
-
-- Blockchain
-- Game Theory
-- Mathematical Modeling
-
----
+* Blockchain Technology
+* Game Theory
+* Distributed Systems
 
 ### Face Enhancement & Reconstruction from CCTV Footage
 
-Technologies:
-
-- Python
-- OpenCV
-- Flask
-- AI/ML
-
----
+* Python
+* OpenCV
+* Flask
+* Deep Learning
 
 ### AI Image Generator with Stable Diffusion
 
-Technologies:
-
-- Python
-- Torch
-- HuggingFace
-- Tkinter
-
----
+* Python
+* Hugging Face
+* Stable Diffusion
 
 ### AI Virtual Assistant Application
 
-Technologies:
-
-- JavaScript
-- TypeScript
-- CSS
-
----
+* JavaScript
+* TypeScript
+* CSS
 
 ### Diabetes Prediction Using Machine Learning
 
-Technologies:
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-
----
+* Machine Learning
+* Python
+* Pandas
+* NumPy
 
 ### Car Price Prediction Using Machine Learning
 
-Technologies:
-
-- Python
-- Flask
-- Pandas
-- SciPy
-
----
+* Regression Models
+* Data Analysis
+* Flask
 
 ### Breast Cancer Detection Using Machine Learning
 
-Technologies:
-
-- Python
-- NumPy
-- Pandas
-- Matplotlib
-
----
+* Classification Models
+* Data Science
 
 ### Weather Dashboard Application
 
-Technologies:
-
-- HTML
-- CSS
-- JavaScript
+* HTML
+* CSS
+* JavaScript
 
 ---
 
@@ -201,20 +156,21 @@ Technologies:
 
 ### Provenance Tracking, Universal Scoring, and Token-Based Incentive Mechanism Enabled AI Model Marketplace
 
-Research focused on:
+Research Areas:
 
-- AI Marketplace Architecture
-- Provenance Tracking
-- Universal Scoring Systems
-- Token-Based Incentive Mechanisms
-- Decentralized AI Ecosystem
+* Artificial Intelligence
+* Decentralized AI Ecosystems
+* AI Marketplace Architecture
+* Provenance Tracking
+* Universal Scoring Systems
+* Token-Based Incentive Mechanisms
 
 ---
 
 ## 📂 Project Structure
 
 ```bash
-Portfolio/
+aryan-saini-portfolio/
 │
 ├── index.html
 ├── README.md
@@ -232,26 +188,27 @@ Portfolio/
 │   ├── pdf/
 │   │   └── Resume Aryan Saini.pdf
 │   │
-│   └── portfolio-preview.png
+│   ├── portfolio-home.png
+│   └── portfolio-projects.png
 ```
 
 ---
 
-## 🚀 Installation
+## ⚙️ Installation
 
 Clone Repository
 
 ```bash
-git clone https://github.com/Aryan132005/portfolio.git
+git clone https://github.com/Aryan132005/aryan-saini-portfolio.git
 ```
 
-Open Project
+Move into project directory
 
 ```bash
-cd portfolio
+cd aryan-saini-portfolio
 ```
 
-Run
+Run Locally
 
 ```bash
 Open index.html
@@ -267,17 +224,11 @@ Use VS Code Live Server
 
 ## 📫 Connect With Me
 
-📧 Email
+📧 Email: [aryansaini132005@gmail.com](mailto:aryansaini132005@gmail.com)
 
-aryansaini132005@gmail.com
+🐙 GitHub: https://github.com/Aryan132005
 
-🐙 GitHub
-
-https://github.com/Aryan132005
-
-💼 LinkedIn
-
-https://linkedin.com/in/aryansaini
+💼 LinkedIn: https://linkedin.com/in/aryan-saini-3618472a1
 
 📍 Jaipur, Rajasthan, India
 
@@ -285,12 +236,14 @@ https://linkedin.com/in/aryansaini
 
 ## ⭐ Support
 
-If you like this project, please give it a ⭐ on GitHub.
+If you like this project, please consider giving it a ⭐ on GitHub.
 
 ---
 
 <div align="center">
 
 ### Made with ❤️ by Aryan Saini
+
+### AI/ML Engineer • Python Developer • Frontend Developer
 
 </div>
