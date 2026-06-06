@@ -96,7 +96,7 @@ I am passionate about:
 
 2023 - 2027
 
-Current CGPA: 8.6
+Current CGPA: 8.4
 
 ---
 
